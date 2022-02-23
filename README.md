@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Wesley Huang.
+- I work for [Promise Technology](https://www.promsie.com).
